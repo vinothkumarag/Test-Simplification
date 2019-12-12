@@ -1,4 +1,5 @@
-
+The code is available at google drive. (Due to space constrains, i have this in my drive)
+Link : https://drive.google.com/open?id=1J8kKInix9isPajP6vPMEZeBts2G6V94u
 # Text Simplification
 
 ## Abstract
