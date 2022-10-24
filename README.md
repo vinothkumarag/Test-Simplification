@@ -20,7 +20,7 @@ In order to reproduce [Sergiu Nisioi et. al](https://www.aclweb.org/anthology/P1
   2.1. Install [Python](https://www.python.org/downloads/)
 3. Checkout this repository
    ```bash 
-   git clone --recursive https://github.com/sarauniverse/TextSimplification
+   git clone --recursive https://github.com/vinothkumarag/Text-Simplification
    ```
 4. Download the model for simplification. Model is trained with 14 epochs.  Hence 14 models were created. The model with the highest BLEU and SARI score is uploaded in the Dropbox. The model can be downloaded by running the following python script.
 ```bash
